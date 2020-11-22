@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/tofuninjah/simple-node.svg?branch=master)](https://travis-ci.com/tofuninjah/simple-node)
+
 # Simple Node
 ## Overview
 This is a very simple, bare-bones NodeJS project created for you to use with Docker.
